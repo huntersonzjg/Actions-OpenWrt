@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: lean-Builder
+name: c2000-Builder
 
 on:
   repository_dispatch:
