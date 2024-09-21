@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: imm-Builder
+name: imm-21.02-7628-Builder
 
 on:
   repository_dispatch:
