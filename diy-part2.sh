@@ -18,4 +18,5 @@ sed -i 's/192.168.1.1/192.168.65.21/g' package/base-files/files/bin/config_gener
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
-sed -i 's/ImmortalWrt/Imm-zjh/g' package/base-files/files/bin/config_generate
+#sed -i 's/ImmortalWrt/Imm-zjh/g' package/base-files/files/bin/config_generate
+sed -i 's/OpenWrt/opt-zjh/g' package/base-files/files/bin/config_generate
