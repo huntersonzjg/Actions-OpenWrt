@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-# Modify default IP
+# Modify default IP 
 #sed -i 's/192.168.1.1/192.168.65.41/g' package/base-files/files/bin/config_generate
 #if x86 use as below
 #sed -i 's/192.168.1.1/192.168.65.21/g' package/base-files/files/bin/config_generate
