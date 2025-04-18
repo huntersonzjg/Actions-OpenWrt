@@ -20,6 +20,6 @@ echo 'src-git smpackage https://github.com/kenzok8/small-package' feeds.conf.def
 #echo 'src-git kenzok8 https://github.com/kenzok8/small-package.git ' >>feeds.conf.default  
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default    
 # echo 'src-git modemfeed https://github.com/koshev-msk/modemfeed.git' >>feeds.conf.default    
-# echo 'src-git modemfeed https://github.com/koshev-msk/modemfeed.git' >>feeds.conf.default 
+
                           
 
